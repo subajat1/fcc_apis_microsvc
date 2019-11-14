@@ -1,0 +1,19 @@
+{
+  "name": "fcc_apis_microsvc",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp APIs and Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subajat1/fcc_apis_microsvc.git"
+  },
+  "author": "subajat1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subajat1/fcc_apis_microsvc/issues"
+  },
+  "homepage": "https://github.com/subajat1/fcc_apis_microsvc#readme"
+}
