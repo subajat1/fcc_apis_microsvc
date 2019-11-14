@@ -1,11 +1,15 @@
 {
-  "author": "Bayu Munajat",
-  "name": "fcc_apis_microsvc",
-  "version": "1.0.0",
-  "description": "FreeCodeCamp APIs and Microservices",
-  "main": "index.js",
+  "author": "subajat1",
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
   },
   "repository": {
     "type": "git",
